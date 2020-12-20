@@ -5,4 +5,5 @@ Listed Indicators:
 2. EMA
 3. MACD
 4. RSI
+
 The src folder contains the codes for the above strategies
